@@ -19,4 +19,4 @@ We are constantly looking to improve the Sign Language Glove and expand its capa
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # Acknowledgments
-A heartfelt thank you to everyone who has contributed to this project. Your hard work, innovative ideas, and dedication are what make the Sign Language Glove a reality. Together, we're not just creating technology; we're building bridges.
+A heartfelt thanks to Uzafir Ahmed (https://github.com/uzafirahmad) who has contributed to this project. Our hard work, innovative ideas, and dedication are what make the Sign Language Glove a reality. Together, we're not just creating technology; we're building bridges.
