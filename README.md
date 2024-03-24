@@ -1,7 +1,7 @@
 # Cosmic-Claw-V1.0
 Sign Language Glove: Sign-to-Speech Conversion
 Welcome to the official repository for the innovative Sign Language Glove project, an advanced tool designed to bridge communication gaps and foster inclusivity. Utilizing cutting-edge machine learning techniques, this glove translates sign language into spoken words, making conversation fluid and accessible for everyone.
-
+Demo: https://www.youtube.com/watch?v=KwxwMZN3S8A
 # Key Features
 Real-Time Sign to Text Conversion: Our glove captures sign language gestures and accurately converts them into text using a sophisticated K-means machine learning model. This model ensures precise gesture recognition by clustering similar movements, offering a seamless translation experience.
 
@@ -15,7 +15,6 @@ Custom Sign Registration: One of the glove's most groundbreaking features is its
 
 # Get Involved
 We are constantly looking to improve the Sign Language Glove and expand its capabilities. Whether you're a developer, a linguist, a machine learning enthusiast, or someone passionate about accessibility, there's room for you to contribute. Check out our Issues and Projects tabs to see how you can get involved today.
-
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
