@@ -14,7 +14,7 @@ Completing the communication circle, the glove leverages an advanced speech engi
 Custom Sign Registration: One of the glove's most groundbreaking features is its ability to learn new signs. Users can record custom signs in real-time, and the model updates itself within seconds to include these new gestures. This adaptability makes the glove a continuously evolving tool, tailored to meet the unique needs of its users.
 
 # Get Involved
-We are constantly looking to improve the Sign Language Glove and expand its capabilities. Whether you're a developer, a linguist, a machine learning enthusiast, or someone passionate about accessibility, there's room for you to contribute. Check out our Issues and Projects tabs to see how you can get involved today.
+We are constantly looking to improve the Sign Language Glove and expand its capabilities. Whether you're a developer, a linguist, a machine learning enthusiast, or someone passionate about accessibility, there's room for you to contribute. For in-depth details please refer to our uploaded THESIS report. Check out our Issues and Projects tabs to see how you can get involved today.
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
